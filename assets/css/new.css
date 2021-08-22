@@ -1,0 +1,16 @@
+.black{
+	color: #000000 !important;
+}
+.pink{
+	color: #F38CBC !important;
+}
+#charts_text li{
+	display: block;
+	
+}
+#charts_text li::before{
+	 
+}
+#charts_text li::after{
+	
+}
